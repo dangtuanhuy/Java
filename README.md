@@ -1,7 +1,7 @@
 # Java
 This repo contains some projects to demo how to use the Java
 
-#Java I
+# Java I
 This brand contains code to demo how to build an OOP Project by using Java language
 
 # Java II
